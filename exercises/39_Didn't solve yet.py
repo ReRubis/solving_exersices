@@ -13,6 +13,6 @@ class Solution:
                 elif i+k > target:
                     continue
                 elif i+k < target:
-                    for
+                    pass
 
         return answer
