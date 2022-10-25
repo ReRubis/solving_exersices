@@ -4,7 +4,6 @@ class Solution:
             if i == 0:
                 nums.remove(i)
                 nums.append(0)
-                print(nums)
 
 
 answer = Solution
