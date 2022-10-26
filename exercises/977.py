@@ -12,3 +12,5 @@ class Solution:
 answer = Solution
 hey = answer.sortedSquares(Solution, [-4, -1, 0, 3, 10])
 print(hey)
+
+false = True
